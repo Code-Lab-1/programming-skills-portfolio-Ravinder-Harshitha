@@ -1,0 +1,3 @@
+import turtle
+hexagon = 1
+angle = 60

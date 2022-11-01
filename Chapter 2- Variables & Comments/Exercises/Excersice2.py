@@ -1,0 +1,1 @@
+print('Chanakya once said, \"The Biggest Gurumantra is: Never share your secrets with anybody. It will destroy you.\"')
