@@ -1,0 +1,1 @@
+print('Chanakya once said, \"Never share your secrets with anybody. It will destroy you.\"')
